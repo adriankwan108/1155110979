@@ -12,12 +12,20 @@ Language | Level
 C | 2
 Java | 3
 C++ | 2
-Other | 0
-  
+Other | 0 
 I really have **no confident** in coding, but I am really good at Maths.
 
 # Favourite Singer
 * **Aimer**
-  1. **Aimer**
-  1. **Aimer**  
-Aimer is the **BEST**
+* **Aimer**
+* **Aimer**  
+Aimer is the **BEST** !!! 
+My favourite song is Aimer- Re:pray (https://www.youtube.com/watch?v=uVeSf_vIeAE)
+
+#Task list in Summer
+- [x] Join a competition
+- [X] Exchange
+- [X] Get a "Master" in League of Legend
+- [ ] Make a game by myself
+- [ ] Intern
+- [ ] Aimer Concert  (I hate scalpers !!!)

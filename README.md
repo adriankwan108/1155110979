@@ -17,7 +17,7 @@ Other | 0
 I really have **no confident** in coding, but I am really good at Maths.
 
 # Favourite Singer
-> **Aimer**
+* **Aimer**
   1. **Aimer**
   1. **Aimer**  
 Aimer is the **BEST**

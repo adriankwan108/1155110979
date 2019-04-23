@@ -1,7 +1,7 @@
 # Name
 I am KWAN Ting Fung,  
 you may call me Adrian.  
-Sorry I am a deadline fighter ._.   
+Sorry I am a **deadline fighter** ._.   
 SID: 1155110979   
 Github experience: New    
 Status: A0  
@@ -14,13 +14,10 @@ Java | 3
 C++ | 2
 Other | 0
   
-really no confident in coding
+I really have **no confident** in coding, but I am really good at Maths.
 
-# Favourite
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+# Favourite Singer
+  1. **Aimer**
+  1. **Aimer**
+  1. **Aimer**
+Aimer is the **BEST**

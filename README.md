@@ -17,3 +17,10 @@ Other | 0
 really no confident in coding
 
 # Favourite
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_

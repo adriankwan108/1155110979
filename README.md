@@ -6,4 +6,5 @@ Github experience: New
 Status: A0
 
 # Skills
-- [ ] this is an incomplete item
+- [ ] C 
+- [ ] C++

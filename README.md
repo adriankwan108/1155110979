@@ -5,5 +5,5 @@ SID: 1155110979
 Github experience: New
 Status: A0
 
-## Skills
-[] C
+# Skills
+-[ ] C

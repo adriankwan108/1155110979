@@ -11,7 +11,9 @@ Language | Level
 ------------ | -------------
 C | 2
 Java | 3
-C++ | 2
+C++ | 3
+Perl | 3
+Python | 9
 Other | 0 
 
 I really have **no confident** in coding, but I am really good at Maths.
@@ -24,7 +26,7 @@ Aimer is the **BEST** !!!
 My favourite song is  
 Aimer- Re:pray (https://www.youtube.com/watch?v=uVeSf_vIeAE)
 
-# Task list in Summer
+# Task list in Summer  X=DONE
 - [x] Join a competition
 - [X] Exchange
 - [X] Get a "Master" in League of Legend

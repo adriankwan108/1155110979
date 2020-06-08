@@ -26,10 +26,9 @@ Aimer is the **BEST** !!!
 My favourite song is  
 Aimer- Re:pray (https://www.youtube.com/watch?v=uVeSf_vIeAE)
 
-# Task list in Summer  X=DONE
+# Task list in Summer
 - [x] Join a competition
 - [X] Exchange
 - [X] Get a "Master" in League of Legend
-- [ ] Make a game by myself
-- [ ] Intern
+- [X] Make a game by myself
 - [ ] Aimer Concert  (I hate scalpers !!!)
